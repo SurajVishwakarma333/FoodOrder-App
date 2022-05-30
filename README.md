@@ -1,5 +1,6 @@
 # FoodOrder-App
-Application developed by android studio using java and for database i used SQL.
+This application was developed by using android studio(ava)
+For database i used SQL.
 
 
 
