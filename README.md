@@ -1,11 +1,11 @@
 # FoodOrder-App
-This application was developed by using android studio(Java) and for Database i used SQL.
+• This application was developed by using android studio(Java) and for Database i used SQL.
 
 https://user-images.githubusercontent.com/101108540/170933239-f78cce12-ec08-466f-921c-35f33b094025.mp4
 
 
 
-Android Studio database where data use to get stored.
+• Android Studio database where data use to get stored.
 
 
 
@@ -15,7 +15,7 @@ Android Studio database where data use to get stored.
 
 
 
-Downloaded the database and opened in SQLite.
+• Downloaded the database and opened in SQLite.
 
 
 
