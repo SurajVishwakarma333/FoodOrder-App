@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/101108540/170933239-f78cce12-ec08-466f
 
 
 
-• Downloaded the database and opened in SQLite
+- [ ] Downloaded the database and opened in SQLite
 
 
 
